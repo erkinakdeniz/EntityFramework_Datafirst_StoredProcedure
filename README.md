@@ -1,2 +1,2 @@
 # EntityFramework_Datafirst_StoredProcedure
- Açıklama sonra yazılacak
+Stored Procedure Mapping visual studio'da açılmıyorsa visual studio'yu güncelleyin.
